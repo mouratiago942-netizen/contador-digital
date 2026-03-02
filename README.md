@@ -11,6 +11,8 @@ Clique no "-" , o número desce.
 
 Tudo acontece em tempo real, sem precisar atualizar a página.
 
+Acesse aqui: https://dynamic-muffin-3193ec.netlify.app/
+
 Tecnologias que usei:
 
 HTML5: Montei a estrutura básica, usando mainpara organizar o conteúdo e spanpara exibir o valor.
